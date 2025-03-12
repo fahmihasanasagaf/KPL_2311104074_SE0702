@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tp3_kpl_GUI/1.0.0": {
+        "runtime": {
+          "Tp3_kpl_GUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tp3_kpl_GUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
