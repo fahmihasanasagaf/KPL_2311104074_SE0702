@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fahmi\\source\\repos\\tpmodul4_kpl\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{49012096-F144-4C3E-9D47-106280955F57}|tpmodul4_kpl\\tpmodul4_kpl.csproj|c:\\users\\fahmi\\source\\repos\\tpmodul4_kpl\\tpmodul4_kpl\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49012096-F144-4C3E-9D47-106280955F57}|tpmodul4_kpl\\tpmodul4_kpl.csproj|solutionrelative:tpmodul4_kpl\\kodepos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{49012096-F144-4C3E-9D47-106280955F57}|tpmodul4_kpl\\tpmodul4_kpl.csproj|c:\\users\\fahmi\\source\\repos\\tpmodul4_kpl\\tpmodul4_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{49012096-F144-4C3E-9D47-106280955F57}|tpmodul4_kpl\\tpmodul4_kpl.csproj|solutionrelative:tpmodul4_kpl\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "KodePos.cs",
+              "DocumentMoniker": "C:\\Users\\fahmi\\source\\repos\\tpmodul4_kpl\\tpmodul4_kpl\\KodePos.cs",
+              "RelativeDocumentMoniker": "tpmodul4_kpl\\KodePos.cs",
+              "ToolTip": "C:\\Users\\fahmi\\source\\repos\\tpmodul4_kpl\\tpmodul4_kpl\\KodePos.cs*",
+              "RelativeToolTip": "tpmodul4_kpl\\KodePos.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:22:44.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fahmi\\source\\repos\\tpmodul4_kpl\\tpmodul4_kpl\\Program.cs",
+              "RelativeDocumentMoniker": "tpmodul4_kpl\\Program.cs",
+              "ToolTip": "C:\\Users\\fahmi\\source\\repos\\tpmodul4_kpl\\tpmodul4_kpl\\Program.cs",
+              "RelativeToolTip": "tpmodul4_kpl\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T15:15:15.577Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
