@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{FC31AF79-BBEF-4753-94AC-FC022B84B556}|TP5\\TP5.csproj|c:\\users\\fahmi\\source\\repos\\kpl_2311104074_se0702\\05_generics\\tp5\\tp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FC31AF79-BBEF-4753-94AC-FC022B84B556}|TP5\\TP5.csproj|solutionrelative:tp5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC31AF79-BBEF-4753-94AC-FC022B84B556}|TP5\\TP5.csproj|c:\\users\\fahmi\\source\\repos\\kpl_2311104074_se0702\\05_generics\\tp5\\tp5\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC31AF79-BBEF-4753-94AC-FC022B84B556}|TP5\\TP5.csproj|solutionrelative:tp5\\datageneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC31AF79-BBEF-4753-94AC-FC022B84B556}|TP5\\TP5.csproj|c:\\users\\fahmi\\source\\repos\\kpl_2311104074_se0702\\05_generics\\tp5\\tp5\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC31AF79-BBEF-4753-94AC-FC022B84B556}|TP5\\TP5.csproj|solutionrelative:tp5\\halogeneric.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HaloGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\fahmi\\source\\repos\\KPL_2311104074_SE0702\\05_Generics\\TP5\\TP5\\HaloGeneric.cs",
+              "RelativeDocumentMoniker": "TP5\\HaloGeneric.cs",
+              "ToolTip": "C:\\Users\\fahmi\\source\\repos\\KPL_2311104074_SE0702\\05_Generics\\TP5\\TP5\\HaloGeneric.cs*",
+              "RelativeToolTip": "TP5\\HaloGeneric.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:33:35.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataGeneric.cs",
+              "DocumentMoniker": "C:\\Users\\fahmi\\source\\repos\\KPL_2311104074_SE0702\\05_Generics\\TP5\\TP5\\DataGeneric.cs",
+              "RelativeDocumentMoniker": "TP5\\DataGeneric.cs",
+              "ToolTip": "C:\\Users\\fahmi\\source\\repos\\KPL_2311104074_SE0702\\05_Generics\\TP5\\TP5\\DataGeneric.cs",
+              "RelativeToolTip": "TP5\\DataGeneric.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-17T14:08:56.053Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +58,7 @@
               "RelativeDocumentMoniker": "TP5\\Program.cs",
               "ToolTip": "C:\\Users\\fahmi\\source\\repos\\KPL_2311104074_SE0702\\05_Generics\\TP5\\TP5\\Program.cs",
               "RelativeToolTip": "TP5\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-17T13:46:51.135Z",
               "EditorCaption": ""

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Tp3_kpl_GUI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4c75c4e894f01824d7f36714478cb764bfe4898c")]
 [assembly: System.Reflection.AssemblyProductAttribute("Tp3_kpl_GUI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Tp3_kpl_GUI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

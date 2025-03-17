@@ -1,12 +1,16 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
-namespace TP5
+public class HaloGeneric<T>
 {
-    class HaloGeneric
+    private T data;
+
+    public HaloGeneric(T data)
     {
+        this.data = data;
+    }
+
+    public void SapaUser()
+    {
+        Console.WriteLine($"Halo, {data}!");
     }
 }
